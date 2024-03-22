@@ -2,7 +2,7 @@ name: Fetch updated links every half hour - urls
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 jobs:
