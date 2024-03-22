@@ -1,14 +1,14 @@
 Latest Run info: 
-[main ca63834] Update misisng output txt
- 1 file changed, 64 deletions(-)
+[main 9fe392b] Update misisng output txt
+ 1 file changed, 153 deletions(-)
 
 ## Total links: 42454
 
-## Links present in Archive.org: 40127
+## Links present in Archive.org: 40280
 
-## Missing links: 2327
+## Missing links: 2174
 
-## Percentage Done: 94.51877326047016 %
+## Percentage Done: 94.87916332972158 %
 
 
-Last updated: 2024-03-22 17:38:13
+Last updated: 2024-03-22 18:17:53
