@@ -1,21 +1,14 @@
 Latest Run info: 
-On branch main
-Your branch is up to date with 'origin/main'.
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   README.md
-
-no changes added to commit (use "git add" and/or "git commit -a")
+[main ab088e8] Update misisng output txt
+ 1 file changed, 7 deletions(-)
 
 ## Total links: 42459
 
-## Links present in Archive.org: 41400
+## Links present in Archive.org: 41407
 
-## Missing links: 1059
+## Missing links: 1052
 
-## Percentage Done: 97.50582915282979 %
+## Percentage Done: 97.52231564568172 %
 
 
-Last updated: 2024-04-29 12:19:28
+Last updated: 2024-04-29 18:14:37
