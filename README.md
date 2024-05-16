@@ -1,3 +1,8 @@
+## BYE
+> [!NOTE]
+> rooster-link was made to accompany https://github.com/i3p9/rooster, which had the sole purpose of archiving roosterteeth.com, which [it did.](https://archive.org/search?query=scanner%3A%22Rooster%22). 
+---
+
 Latest Run info: 
 On branch main
 Your branch is up to date with 'origin/main'.
